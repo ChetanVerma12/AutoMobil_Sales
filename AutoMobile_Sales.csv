@@ -1,0 +1,201 @@
+﻿Company,Segment,Units_Sold,Year
+Maruti Suzuki,Hatchback,950000,2020
+Maruti Suzuki,Hatchback,880000,2021
+Maruti Suzuki,Hatchback,920000,2022
+Maruti Suzuki,Hatchback,890000,2023
+Maruti Suzuki,Hatchback,860000,2024
+Maruti Suzuki,Sedan,140000,2020
+Maruti Suzuki,Sedan,135000,2021
+Maruti Suzuki,Sedan,145000,2022
+Maruti Suzuki,Sedan,138000,2023
+Maruti Suzuki,Sedan,130000,2024
+Maruti Suzuki,SUV,180000,2020
+Maruti Suzuki,SUV,190000,2021
+Maruti Suzuki,SUV,250000,2022
+Maruti Suzuki,SUV,320000,2023
+Maruti Suzuki,SUV,360000,2024
+Maruti Suzuki,MPV,110000,2020
+Maruti Suzuki,MPV,108000,2021
+Maruti Suzuki,MPV,120000,2022
+Maruti Suzuki,MPV,130000,2023
+Maruti Suzuki,MPV,138000,2024
+Maruti Suzuki,Electric,0,2020
+Maruti Suzuki,Electric,0,2021
+Maruti Suzuki,Electric,0,2022
+Maruti Suzuki,Electric,0,2023
+Maruti Suzuki,Electric,5000,2024
+Hyundai,Hatchback,360000,2020
+Hyundai,Hatchback,340000,2021
+Hyundai,Hatchback,355000,2022
+Hyundai,Hatchback,370000,2023
+Hyundai,Hatchback,365000,2024
+Hyundai,Sedan,120000,2020
+Hyundai,Sedan,115000,2021
+Hyundai,Sedan,123000,2022
+Hyundai,Sedan,118000,2023
+Hyundai,Sedan,110000,2024
+Hyundai,SUV,250000,2020
+Hyundai,SUV,265000,2021
+Hyundai,SUV,295000,2022
+Hyundai,SUV,325000,2023
+Hyundai,SUV,350000,2024
+Hyundai,MPV,60000,2020
+Hyundai,MPV,62000,2021
+Hyundai,MPV,65000,2022
+Hyundai,MPV,68000,2023
+Hyundai,MPV,70000,2024
+Hyundai,Electric,2000,2020
+Hyundai,Electric,3000,2021
+Hyundai,Electric,6000,2022
+Hyundai,Electric,10000,2023
+Hyundai,Electric,15000,2024
+Tata Motors,Hatchback,160000,2020
+Tata Motors,Hatchback,150000,2021
+Tata Motors,Hatchback,180000,2022
+Tata Motors,Hatchback,210000,2023
+Tata Motors,Hatchback,225000,2024
+Tata Motors,Sedan,80000,2020
+Tata Motors,Sedan,75000,2021
+Tata Motors,Sedan,78000,2022
+Tata Motors,Sedan,85000,2023
+Tata Motors,Sedan,88000,2024
+Tata Motors,SUV,180000,2020
+Tata Motors,SUV,190000,2021
+Tata Motors,SUV,230000,2022
+Tata Motors,SUV,265000,2023
+Tata Motors,SUV,280000,2024
+Tata Motors,MPV,20000,2020
+Tata Motors,MPV,22000,2021
+Tata Motors,MPV,24000,2022
+Tata Motors,MPV,27000,2023
+Tata Motors,MPV,30000,2024
+Tata Motors,Electric,5000,2020
+Tata Motors,Electric,9000,2021
+Tata Motors,Electric,17000,2022
+Tata Motors,Electric,25000,2023
+Tata Motors,Electric,33000,2024
+Mahindra,Hatchback,0,2020
+Mahindra,Hatchback,0,2021
+Mahindra,Hatchback,0,2022
+Mahindra,Hatchback,0,2023
+Mahindra,Hatchback,0,2024
+Mahindra,Sedan,0,2020
+Mahindra,Sedan,0,2021
+Mahindra,Sedan,0,2022
+Mahindra,Sedan,0,2023
+Mahindra,Sedan,0,2024
+Mahindra,SUV,210000,2020
+Mahindra,SUV,215000,2021
+Mahindra,SUV,250000,2022
+Mahindra,SUV,310000,2023
+Mahindra,SUV,340000,2024
+Mahindra,MPV,45000,2020
+Mahindra,MPV,48000,2021
+Mahindra,MPV,55000,2022
+Mahindra,MPV,60000,2023
+Mahindra,MPV,65000,2024
+Mahindra,Electric,1000,2020
+Mahindra,Electric,2000,2021
+Mahindra,Electric,3000,2022
+Mahindra,Electric,4000,2023
+Mahindra,Electric,5000,2024
+Kia,Hatchback,40000,2020
+Kia,Hatchback,42000,2021
+Kia,Hatchback,45000,2022
+Kia,Hatchback,48000,2023
+Kia,Hatchback,50000,2024
+Kia,Sedan,60000,2020
+Kia,Sedan,62000,2021
+Kia,Sedan,63000,2022
+Kia,Sedan,65000,2023
+Kia,Sedan,67000,2024
+Kia,SUV,150000,2020
+Kia,SUV,170000,2021
+Kia,SUV,185000,2022
+Kia,SUV,200000,2023
+Kia,SUV,215000,2024
+Kia,MPV,25000,2020
+Kia,MPV,28000,2021
+Kia,MPV,30000,2022
+Kia,MPV,32000,2023
+Kia,MPV,35000,2024
+Kia,Electric,0,2020
+Kia,Electric,1000,2021
+Kia,Electric,2000,2022
+Kia,Electric,4000,2023
+Kia,Electric,8000,2024
+Toyota,Hatchback,20000,2020
+Toyota,Hatchback,22000,2021
+Toyota,Hatchback,25000,2022
+Toyota,Hatchback,28000,2023
+Toyota,Hatchback,30000,2024
+Toyota,Sedan,60000,2020
+Toyota,Sedan,58000,2021
+Toyota,Sedan,65000,2022
+Toyota,Sedan,70000,2023
+Toyota,Sedan,75000,2024
+Toyota,SUV,100000,2020
+Toyota,SUV,105000,2021
+Toyota,SUV,115000,2022
+Toyota,SUV,130000,2023
+Toyota,SUV,145000,2024
+Toyota,MPV,100000,2020
+Toyota,MPV,105000,2021
+Toyota,MPV,115000,2022
+Toyota,MPV,130000,2023
+Toyota,MPV,135000,2024
+Toyota,Electric,0,2020
+Toyota,Electric,0,2021
+Toyota,Electric,0,2022
+Toyota,Electric,1000,2023
+Toyota,Electric,3000,2024
+Honda,Hatchback,55000,2020
+Honda,Hatchback,52000,2021
+Honda,Hatchback,50000,2022
+Honda,Hatchback,48000,2023
+Honda,Hatchback,46000,2024
+Honda,Sedan,90000,2020
+Honda,Sedan,88000,2021
+Honda,Sedan,85000,2022
+Honda,Sedan,82000,2023
+Honda,Sedan,80000,2024
+Honda,SUV,60000,2020
+Honda,SUV,65000,2021
+Honda,SUV,70000,2022
+Honda,SUV,75000,2023
+Honda,SUV,80000,2024
+Honda,MPV,20000,2020
+Honda,MPV,22000,2021
+Honda,MPV,23000,2022
+Honda,MPV,25000,2023
+Honda,MPV,26000,2024
+Honda,Electric,0,2020
+Honda,Electric,0,2021
+Honda,Electric,1000,2022
+Honda,Electric,2000,2023
+Honda,Electric,3000,2024
+Renault,Hatchback,140000,2020
+Renault,Hatchback,135000,2021
+Renault,Hatchback,130000,2022
+Renault,Hatchback,120000,2023
+Renault,Hatchback,110000,2024
+Renault,Sedan,10000,2020
+Renault,Sedan,12000,2021
+Renault,Sedan,10000,2022
+Renault,Sedan,9000,2023
+Renault,Sedan,8000,2024
+Renault,SUV,80000,2020
+Renault,SUV,85000,2021
+Renault,SUV,90000,2022
+Renault,SUV,92000,2023
+Renault,SUV,95000,2024
+Renault,MPV,0,2020
+Renault,MPV,0,2021
+Renault,MPV,0,2022
+Renault,MPV,0,2023
+Renault,MPV,0,2024
+Renault,Electric,0,2020
+Renault,Electric,0,2021
+Renault,Electric,0,2022
+Renault,Electric,0,2023
+Renault,Electric,1000,2024
